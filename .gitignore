@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Machine-specific system reports (hostname, IP, processes); regenerate with scripts/system_profile.sh
+outputs/system_profile_*.md
+
+# Editor and OS files
+.vscode/
+.DS_Store
